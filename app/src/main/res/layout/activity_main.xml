@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/tvCadastre"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="12dp"
+        android:ems="10"
+        android:text="Cadastre seu Jogador!"
+        android:textSize="34sp" />
+
+    <EditText
+        android:id="@+id/etNomeCompleto"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:hint="Nome Completo..."
+        android:inputType="textPersonName"
+        android:textSize="28sp" />
+    <EditText
+        android:id="@+id/etNomeCamiseta"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:hint="Nome Completo..."
+        android:inputType="textPersonName"
+        android:textSize="28sp" />
+
+    <Button
+        android:id="@+id/btnSalvar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Salvar" />
+
+
+</LinearLayout>
+

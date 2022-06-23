@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "190421750223",
+    "firebase_url": "https://henriquegoebelapplivraria-default-rtdb.firebaseio.com",
+    "project_id": "henriquegoebelapplivraria",
+    "storage_bucket": "henriquegoebelapplivraria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190421750223:android:82cf2a1ca5a18c79f502ba",
+        "android_client_info": {
+          "package_name": "br.pro.adalto.applivraria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190421750223-f32j40v10b0b2ojr7gq4utg24lgobke1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbyfDjZ3YTUHYBVzIVEWEyuezRILElZK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190421750223-f32j40v10b0b2ojr7gq4utg24lgobke1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190421750223:android:9e3c5b8dda7cdf86f502ba",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190421750223-f32j40v10b0b2ojr7gq4utg24lgobke1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbyfDjZ3YTUHYBVzIVEWEyuezRILElZK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190421750223-f32j40v10b0b2ojr7gq4utg24lgobke1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190421750223:android:18cdfbc3773b6706f502ba",
+        "android_client_info": {
+          "package_name": "com.example.n1_henriquegoebel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190421750223-f32j40v10b0b2ojr7gq4utg24lgobke1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbyfDjZ3YTUHYBVzIVEWEyuezRILElZK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190421750223-f32j40v10b0b2ojr7gq4utg24lgobke1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
